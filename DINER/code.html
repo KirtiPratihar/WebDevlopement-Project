@@ -1,1 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fine dine</title>
+</head>
+<style>
+    body {
+        color: white;
+        padding: 2px 2px;
+        margin: 0px 0px;
+        background: url(back2.jpg);
+    }
+
+    img {
+        width: 200px;
+        height: 120px;
+    }
+
+    header {
+        background-color: white;
+        width: 100vw;
+        height: 180px;
+        display: flex;
+    }
+
+    .left {
+        text-emphasis: none;
+        display: flex;
+        align-items: center;
+        width: 500px;
+        justify-content: center;
+        font-weight: bolder;
+    }
+
+    .navbar {
+        display: flex;
+
+    }
+
+    .navbar li {
+        list-style: none;
+        display: flex;
+        font-size: 25px;
+        font-family: 'sans-serif' 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    }
+
+    .navbar li a {
+        text-emphasis: none;
+        list-style: none;
+        color: rgb(31, 63, 59);
+        margin: 2px 2px 2px 2px;
+        padding: 10px 20px;
+        text-decoration: none;
+    }
+
+    .navbar ul {
+        overflow: auto;
+    }
+
+    .right {
+        display: flex;
+        float: right;
+        padding: 15px 35px;
+        align-items: center;
+        justify-content: center;
+        width: 800px;
+        font-weight: bolder;
+    }
+
+    #ami {
+        border: 5px solid rgb(239, 239, 212);
+        margin: 10px 10px;
+        background-color: rgba(24, 46, 56, 0.555);
+        height: 500px;
+    }
+
+    .mid {
+        margin: 2px 30px 2px 70px;
+        color: black;
+        width: 200px;
+    }
+
+    .ac {
+        font-size: 22px;
+        text-align: center;
+        font-family: cursive;
+        font-weight: bolder;
+        margin-top: 0px;
+
+    }
+
+    .hp {
+        font-size: 110px;
+        font-style: italic;
+        text-align: center;
+    }
+
+    .alu {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .btn {
+        text-decoration: none;
+        border: 3px solid black;
+        font-size: 20px;
+        background-color:rgba(41, 230, 41, 0.319);
+        font-family: math;
+        padding: 4px 10px;
+        position: absolute;
+        right: 90px;
+        border-radius: 15px;
+        width: 300px;
+        height: 50px;
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <header>
+        <div class="left">
+            <ul class="navbar">
+                <li><a href="#">HOME</a> </li>
+                <li><a href="">ABOUT</a></li>
+                <li><a href="">MENU</a></li>
+
+            </ul>
+        </div>
+        <div class="mid">
+            <div class="man">
+                <img src="logo.png" alt="error">
+            </div>
+            <div>
+                <p class="ac">KIRTI'S DINE
+                </p>
+            </div>
+        </div>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="#">PAGE</a> </li>
+                <li><a href="">VLOG</a></li>
+                <li><a href="">GALLERY</a></li>
+                <li><a href="">CONTACT US</a></li>
+            </ul>
+        </div>
+
+    </header>
+    <div class="p" id="ami">
+        <p class="hp">KIRTI'S DINE</p>
+        <p class="alu">A Fine Dinning Restaurant</p>
+        <button class="btn">ORDER NOW</button>
+    </div>
+</body>
+
+</html>
