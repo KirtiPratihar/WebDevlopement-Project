@@ -8,4 +8,4 @@ Web development is the process of building and maintaining websites. It involves
 
 **CSS (Cascading Style Sheets):** CSS is used to style and layout the content defined by HTML. It controls the visual presentation, including colors, fonts, and responsive design.
 
-**JavaScript:** JavaScript is a programming language that adds interactivity and dynamic features to websites. It allows developers to create engaging user experiences, such as form validation, animations, and real-time updates.
+**JavaScript:** JavaScript is a  programming language that adds interactivity and dynamic features to websites. It allows developers to create engaging user experiences, such as form validation, animations, and real-time updates.
