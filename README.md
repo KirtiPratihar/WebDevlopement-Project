@@ -6,6 +6,6 @@ Web development is the process of building and maintaining websites. It involves
 
 **HTML (HyperText Markup Language):** The backbone of any website, HTML provides the structure and content of web pages. It defines elements like headings, paragraphs, links, images, and more.
 
-**CSS (Cascading Style Sheets):** CSS is used to style and layout the content defined by HTML. It controls the visual presentation, including colors, fonts, and responsive design.
+**CSS (Cascading Style Sheets):** CSS is used to style and layout the content defined by HTML. It controls the visual presentation, including colors, fonts, and responsive design..
 
 **JavaScript:** JavaScript is a  programming language that adds interactivity and dynamic features to websites. It allows developers to create engaging user experiences, such as form validation, animations, and real-time updates.
