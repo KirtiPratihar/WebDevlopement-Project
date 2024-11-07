@@ -4,7 +4,7 @@ Web development is the process of building and maintaining websites. It involves
 **Key Components of Web Development**
 *Front-End Development  .*
 
-**HTML (HyperText Markup Language):** The backbone of any website, HTML provides the structure and content of web pages. It defines elements like headings, paragraphs, links, images, and more.
+**HTML (HyperText Markup Language):** The backbone of any website, HTML provides the structure and content of web pages. It defines elements like headings, paragraphs, links, images, and more .
 
 **CSS (Cascading Style Sheets):** CSS is used to style and layout the content defined by HTML. It controls the visual presentation, including colors, fonts, and responsive design.
 
